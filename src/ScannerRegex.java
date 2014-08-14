@@ -8,5 +8,6 @@ public class ScannerRegex{
 				System.out.print(sc.nextInt()+" ");
 			else sc.next();		
 		}
+		System.out.println("Teste");
 	}
 }
